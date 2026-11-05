@@ -1,0 +1,24 @@
+{
+  "name": "@igor-guari/pi-skill-retro",
+  "version": "1.0.0",
+  "description": "Conduct a retrospective on a coding session.",
+  "keywords": [
+    "pi-package",
+    "pi-skill",
+    "pi",
+    "retro",
+    "engineering-skills"
+  ],
+  "author": "Igor Guariroba",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorGuariroba/pi-skill-retro.git"
+  },
+  "homepage": "https://github.com/IgorGuariroba/pi-skill-retro#readme",
+  "pi": {
+    "skills": [
+      "."
+    ]
+  }
+}
